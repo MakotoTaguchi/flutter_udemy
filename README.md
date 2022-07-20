@@ -1,4 +1,4 @@
-# udemy_flutter
+# flutter_udemy
 
 A new Flutter project.
 
